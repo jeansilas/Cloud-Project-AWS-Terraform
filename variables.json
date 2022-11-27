@@ -1,0 +1,18 @@
+{
+    "region" : ["us-east-1","us-east-2"],
+
+    "tipo-instancia": {
+            "us-east-1":["t1.micro","t2.micro"],
+            "us-east-2":["t2.micro"]
+    },
+
+    "ami":  {
+        "us-east-1":[["ubuntu   bionic  18.04   amd64-server","ami-0ee23bfc74a881de5"],["ubuntu bionic  daily-amd64-server","ami-02942f49cf7265a03"]],
+
+        "us-east-2":[["ubuntu-bionic-18.04-amd64-server-","ami-0a59f0e26c55590e9"],["ubuntu    focal    20.04 LTS   amd64","ami-0cb81cb394fc2e305"]]
+
+    }
+
+    
+     
+}
