@@ -72,6 +72,7 @@ Além do Terraform será necessário instalar o boto3 e a CLI da AWS.
 > **Note**
 
 > O HA de Web Servers está construindo somente para a região `us-east-2`.
+> Caso queira acessar o WebServer rodando, acesse esse link: http://3.138.106.95:8080/
 
 ### Criar uma KEY PAIR
 
