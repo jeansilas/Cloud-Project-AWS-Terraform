@@ -96,4 +96,3 @@ resource "aws_instance" "J2" {
   }
 }
 
-
